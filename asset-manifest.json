@@ -1,21 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.431ce998.css",
-    "main.js": "/static/js/main.8bcfbc5a.js",
+    "main.js": "/static/js/main.1023c0d4.js",
     "static/js/787.1f11dfe9.chunk.js": "/static/js/787.1f11dfe9.chunk.js",
     "static/media/sugarcosmetic.png": "/static/media/sugarcosmetic.a56a65c3e0d0bba01e85.png",
-    "static/media/UrbanCompany.png": "/static/media/UrbanCompany.349edab510c2c0a17527.png",
     "static/media/instacart.png": "/static/media/instacart.34913a0a658e251fd5fc.png",
     "static/media/Akshay_Bombatkar_Resume.pdf": "/static/media/Akshay_Bombatkar_Resume.a95553cd3e1e10c9d4af.pdf",
-    "static/media/GoDaday.png": "/static/media/GoDaday.adc61da1d4556e7e3638.png",
     "static/media/ab-avatar.png": "/static/media/ab-avatar.4caeea341d4ede322be1.png",
     "index.html": "/index.html",
     "main.431ce998.css.map": "/static/css/main.431ce998.css.map",
-    "main.8bcfbc5a.js.map": "/static/js/main.8bcfbc5a.js.map",
+    "main.1023c0d4.js.map": "/static/js/main.1023c0d4.js.map",
     "787.1f11dfe9.chunk.js.map": "/static/js/787.1f11dfe9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.431ce998.css",
-    "static/js/main.8bcfbc5a.js"
+    "static/js/main.1023c0d4.js"
   ]
 }
