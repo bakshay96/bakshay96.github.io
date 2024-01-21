@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.4b617066.css",
-    "main.js": "/static/js/main.149d38ec.js",
+    "main.js": "/static/js/main.619efbc4.js",
     "static/media/Healthcart.png": "/static/media/Healthcart.64941de171598c655790.png",
     "static/media/Eyekart.png": "/static/media/Eyekart.a9f173771800d4310ee2.png",
     "static/media/bestBuy.png": "/static/media/bestBuy.ccb02fb8f4c14999bc42.png",
     "static/media/Bewakoof.png": "/static/media/Bewakoof.74bec4caed870f0ef527.png",
     "static/media/home-page-1.png": "/static/media/home-page-1.9f796016741f57c1df21.png",
-    "static/media/Akshay_Bombatkar_Resume.pdf": "/static/media/Akshay_Bombatkar_Resume.446c28bf991557aa5916.pdf",
+    "static/media/Akshay_Bombatkar_Resume.pdf": "/static/media/Akshay_Bombatkar_Resume.d9b31bc145a4d34694e8.pdf",
     "index.html": "/index.html",
     "main.4b617066.css.map": "/static/css/main.4b617066.css.map",
-    "main.149d38ec.js.map": "/static/js/main.149d38ec.js.map"
+    "main.619efbc4.js.map": "/static/js/main.619efbc4.js.map"
   },
   "entrypoints": [
     "static/css/main.4b617066.css",
-    "static/js/main.149d38ec.js"
+    "static/js/main.619efbc4.js"
   ]
 }
