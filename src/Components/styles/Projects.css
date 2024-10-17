@@ -1,0 +1,14 @@
+#project-card{
+    padding: 0.5rem;
+    border-radius:1rem;
+    
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+}
+#project-card:hover{
+    transform: scale(1.03);
+    transition-property: transform;
+    transition-duration: 1s;
+    background-color: rgb(29, 124, 128);
+    cursor: pointer;
+}
