@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4b617066.css",
-    "main.js": "/static/js/main.eac29dec.js",
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.e5d5d4ed.js",
     "static/media/Healthcart.png": "/static/media/Healthcart.64941de171598c655790.png",
     "static/media/Eyekart.png": "/static/media/Eyekart.a9f173771800d4310ee2.png",
     "static/media/bestBuy.png": "/static/media/bestBuy.ccb02fb8f4c14999bc42.png",
@@ -10,11 +10,11 @@
     "static/media/home-page-1.png": "/static/media/home-page-1.9f796016741f57c1df21.png",
     "static/media/story.png": "/static/media/story.4dc2a7dd17c90357aadf.png",
     "index.html": "/index.html",
-    "main.4b617066.css.map": "/static/css/main.4b617066.css.map",
-    "main.eac29dec.js.map": "/static/js/main.eac29dec.js.map"
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.e5d5d4ed.js.map": "/static/js/main.e5d5d4ed.js.map"
   },
   "entrypoints": [
-    "static/css/main.4b617066.css",
-    "static/js/main.eac29dec.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e5d5d4ed.js"
   ]
 }
