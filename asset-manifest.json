@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.e6c13ad2.css",
-    "main.js": "/static/js/main.fb0f274a.js",
+    "main.js": "/static/js/main.ab603d42.js",
     "static/media/Healthcart.png": "/static/media/Healthcart.64941de171598c655790.png",
+    "static/media/fileforge.png": "/static/media/fileforge.4d49ca1f6ea739a1938d.png",
     "static/media/Eyekart.png": "/static/media/Eyekart.a9f173771800d4310ee2.png",
     "static/media/bestBuy.png": "/static/media/bestBuy.ccb02fb8f4c14999bc42.png",
     "static/media/Bewakoof.png": "/static/media/Bewakoof.74bec4caed870f0ef527.png",
@@ -13,10 +14,10 @@
     "static/media/masai-logo.svg": "/static/media/masai-logo.e5c8801d4f26d2da036ec9e4b93cb202.svg",
     "index.html": "/index.html",
     "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
-    "main.fb0f274a.js.map": "/static/js/main.fb0f274a.js.map"
+    "main.ab603d42.js.map": "/static/js/main.ab603d42.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.fb0f274a.js"
+    "static/js/main.ab603d42.js"
   ]
 }
